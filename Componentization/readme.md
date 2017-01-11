@@ -2,6 +2,8 @@
 
 01/11/2017
 
+English version is on the way...
+
 首先，显示效果如下图
 
 ![](1.png)
